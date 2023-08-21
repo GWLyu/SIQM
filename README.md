@@ -1,5 +1,5 @@
 # SIQM
-This repository constains all of the codes used in paper "Probing Spin-Induced Quadrupole Moments in Precessing Compact Binaries
-", arXiv:[2308.09032](https://arxiv.org/abs/2308.09032)
+This repository constains the revelent codes used in constructing the precessing gravitational waveform model with Spin-Induced Quadrupole Moments (SIQM) introduced.
 
-There are two parts: 
+The relevant papers are "Efficient fully precessing gravitational waveforms for binaries with neutron stars" [arXiv:2212.04657
+](https://arxiv.org/abs/2212.04657) and "Probing Spin-Induced Quadrupole Moments in Precessing Compact Binaries", [arXiv:2308.09032](https://arxiv.org/abs/2308.09032).
