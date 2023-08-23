@@ -1,1 +1,1 @@
-This folder contains the files used to run MCMCs and generate plots.
+This folder contains files used to run MCMCs and generate plots in paper arXiv:2308.09032.
